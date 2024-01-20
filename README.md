@@ -21,4 +21,4 @@ This is a Streamlit web application for querying and analyzing YouTube data. It 
 1. Clone the repository:
 
 ```bash
-git clone [https://github.com/yourusername/youtube-data-analysis-app.git](https://github.com/TamilViyan/YoutubeScrapes.git)https://github.com/TamilViyan/YoutubeScrapes.git
+git clone https://github.com/yourusername/youtube-data-analysis-app.git
