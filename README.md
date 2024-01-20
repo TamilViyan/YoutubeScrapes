@@ -22,3 +22,11 @@ This is a Streamlit web application for querying and analyzing YouTube data. It 
 
 ```bash
 git clone https://github.com/TamilViyan/YoutubeScrapes.git
+```
+
+## Usage
+
+```bash
+streamlit run your_script.py
+```
+Visit http://localhost:8501 in your web browser to access the Streamlit app.
